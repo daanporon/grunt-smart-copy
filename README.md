@@ -36,13 +36,11 @@ grunt.initConfig({
 
 #### your_target.src
 Type: `String`
-Default value: `',  '`
 
 The path of the file or directory you want to copy.
 
 #### your_target.dest
 Type: `String`
-Default value: `'.'`
 
 The path of the file or directory you want to copy the source to.
 
